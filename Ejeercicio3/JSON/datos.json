@@ -1,0 +1,8 @@
+[
+    {"nombre": "Juan", "edad": 30, "ciudad": "Madrid"},
+    {"nombre": "Ana", "edad": 25, "ciudad": "Barcelona"},
+    {"nombre": "Luis", "edad": 35, "ciudad": "Valencia"},
+    {"nombre": "Maria", "edad": 69, "ciudad": "Giron"},
+    {"nombre": "Ever", "edad": 45, "ciudad": "Giron"},
+    {"nombre": "Amalfy", "edad": 45, "ciudad": "Jamundí"}
+]
